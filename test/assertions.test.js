@@ -1,6 +1,6 @@
 import {describe, expect, it} from '@jest/globals';
 import Primitives from "@ceilingcat/primitives";
-import Assertions from "../src/assertions";
+import Assertions from "../src/assertions.js";
 
 const expectACustomError = function (invoker, expectedError) {
     let thrownError
