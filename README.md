@@ -12,6 +12,10 @@ Provides a single default class export `Assertions`.
 
 `npm run lint`
 
+## Version History
+
+See [Version History](./VERSIONS.md)
+
 ## Licensing
 
 The [Unlicense](https://unlicense.org/)

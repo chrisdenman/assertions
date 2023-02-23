@@ -1,4 +1,4 @@
-import Primitives from "primitives";
+import Primitives from "@ceilingcat/primitives";
 
 export default class Assertions {
 
