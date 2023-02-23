@@ -4,7 +4,7 @@
     "node": ">=14.17.0"
   },
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An assertions helper class.",
   "main": "src/assertions.js",
   "module": "src/assertions.js",
@@ -26,7 +26,7 @@
     "@jest/globals": "^29.4.3"
   },
   "dependencies": {
-    "@ceilingcat/primitives": "^1.0.1"
+    "@ceilingcat/primitives": "^1.0.2"
   },
   "repository": {
     "type": "git",

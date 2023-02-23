@@ -1,4 +1,4 @@
-# Assertions 1.0.0
+# Assertions 1.0.3
 
 A JavaScript assertion helper class.
 
